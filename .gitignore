@@ -1,0 +1,11 @@
+#for node dependencies
+node_modules/
+
+# for env
+.env
+
+# for vscode config
+.vscode/
+
+.space
+Spacefile
